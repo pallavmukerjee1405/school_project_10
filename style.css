@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 50px;
+}
+
+.name_of_objects{
+    color: blue;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
+#result_name{
+    color: white;
+    font-size: 30px;
+}
+
+button{
+    font-size: 40px;
+}
